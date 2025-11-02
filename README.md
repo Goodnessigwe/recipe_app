@@ -7,7 +7,7 @@ Users can search for recipes by name and view results in a clean, responsive lay
 ---
 
 ## 🚀 Live Demo
-🔗 [View App](https://goodyrecipe.free.nf/)  
+🔗 [View App](https://goodnessigwe.github.io/recipe_app/)  
 
 ---
 
